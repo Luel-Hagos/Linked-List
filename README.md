@@ -18,10 +18,10 @@ Another disadvantage is that a linked list uses more memory compare with an arra
 ![](https://github.com/Luel-Hagos/T/blob/master/Image/Singlyimage.PNG)
 
 * A __doubly linked list__ is a list that has two references, one to the next node and another to previous node ( items can be navigated forward and backward ).
-![](https://github.com/Luel-Hagos/T/blob/master/Image/Curcularimage.PNG)
+![](https://github.com/Luel-Hagos/T/blob/master/Image/doublyimage.PNG)
 
 * A __circular linked list__ where last node of the list points back to the first node (or the head) of the list.
-![](https://github.com/Luel-Hagos/T/blob/master/Image/doublyimage.PNG)
+![](https://github.com/Luel-Hagos/T/blob/master/Image/Curcularimage.PNG)
 
 __Example__: if we run the [SinglyLinkedList.py](link) on any python environment we will get the following output.
 ![](https://github.com/Luel-Hagos/T/blob/master/Image/singly.PNG)
